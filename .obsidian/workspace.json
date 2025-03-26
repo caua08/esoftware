@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a28b2356e402e599",
+        "id": "4af85b73bb392ed5",
         "type": "tabs",
         "children": [
           {
-            "id": "e647fa73af2afb66",
+            "id": "804ec1eb0690aea4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bancos de Dados/Modelagem Conceitual.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Modelagem Conceitual"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bancos de Dados/Modelagem Conceitual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modelagem Conceitual"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bancos de Dados/Modelagem Conceitual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Modelagem Conceitual"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bancos de Dados/Modelagem Conceitual.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Modelagem Conceitual"
+              "title": "Outline"
             }
           }
         ]
@@ -169,17 +162,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e647fa73af2afb66",
+  "active": "a71679553674d027",
   "lastOpenFiles": [
-    "Bancos de Dados/conceptual_modeling.png",
-    "Fundamentos de Arquitetura de Computadores",
-    "Java/review.md",
-    "Java",
-    "Requisitos de Software/sequencia_diagrama.png",
-    "Requisitos de Software/req_excalidraw.md",
-    "Requisitos de Software/Abordagens de Desenvolvimento.md",
-    "Requisitos de Software",
-    "Bancos de Dados/Modelagem Conceitual.md",
-    "Bancos de Dados"
+    "java/ja.md",
+    "fundamentos-de-arquitetura-de-computadores/Digital Design and Computer Architecture_ RISC-V Edition(Z-Lib.io).pdf",
+    "fundamentos-de-arquitetura-de-computadores/Aula 1 e 2.md",
+    "Untitled.md",
+    "bancos-de-dados/Modelagem Conceitual.md",
+    "requisitos-de-software/sequencia_diagrama.png",
+    "requisitos-de-software/req_excalidraw.md",
+    "requisitos-de-software/Abordagens de Desenvolvimento.md",
+    "bancos-de-dados/conceptual_modeling.png",
+    "fundamentos-de-arquitetura-de-computadores",
+    "java/review.md",
+    "java",
+    "requisitos-de-software",
+    "bancos-de-dados"
   ]
 }

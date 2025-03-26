@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4af85b73bb392ed5",
+        "id": "c328c489c92936fd",
         "type": "tabs",
         "children": [
           {
-            "id": "804ec1eb0690aea4",
+            "id": "5026b1648f936e9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "fundamentos-de-arquitetura-de-computadores/Aula 1 e 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aula 1 e 2"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "fundamentos-de-arquitetura-de-computadores/Aula 1 e 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Aula 1 e 2"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "fundamentos-de-arquitetura-de-computadores/Aula 1 e 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Aula 1 e 2"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "fundamentos-de-arquitetura-de-computadores/Aula 1 e 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Aula 1 e 2"
             }
           }
         ]
@@ -159,20 +166,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a71679553674d027",
+  "active": "5026b1648f936e9a",
   "lastOpenFiles": [
-    "java/ja.md",
     "fundamentos-de-arquitetura-de-computadores/Digital Design and Computer Architecture_ RISC-V Edition(Z-Lib.io).pdf",
     "fundamentos-de-arquitetura-de-computadores/Aula 1 e 2.md",
-    "Untitled.md",
     "bancos-de-dados/Modelagem Conceitual.md",
+    "bancos-de-dados/conceptual_modeling.png",
+    "requisitos-de-software/Abordagens de Desenvolvimento.md",
+    "java/ja.md",
+    "Untitled.md",
     "requisitos-de-software/sequencia_diagrama.png",
     "requisitos-de-software/req_excalidraw.md",
-    "requisitos-de-software/Abordagens de Desenvolvimento.md",
-    "bancos-de-dados/conceptual_modeling.png",
     "fundamentos-de-arquitetura-de-computadores",
     "java/review.md",
     "java",

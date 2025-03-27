@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c328c489c92936fd",
+        "id": "4f809b640fb1556b",
         "type": "tabs",
         "children": [
           {
-            "id": "5026b1648f936e9a",
+            "id": "9f11063b7b7cd3ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fundamentos-de-arquitetura-de-computadores/Aula 1 e 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aula 1 e 2"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "right": {
     "id": "7ec4abf92ec68a85",
@@ -172,19 +168,35 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5026b1648f936e9a",
+  "active": "9f11063b7b7cd3ef",
   "lastOpenFiles": [
-    "fundamentos-de-arquitetura-de-computadores/Digital Design and Computer Architecture_ RISC-V Edition(Z-Lib.io).pdf",
-    "fundamentos-de-arquitetura-de-computadores/Aula 1 e 2.md",
-    "bancos-de-dados/Modelagem Conceitual.md",
-    "bancos-de-dados/conceptual_modeling.png",
-    "requisitos-de-software/Abordagens de Desenvolvimento.md",
-    "java/ja.md",
-    "Untitled.md",
-    "requisitos-de-software/sequencia_diagrama.png",
-    "requisitos-de-software/req_excalidraw.md",
-    "fundamentos-de-arquitetura-de-computadores",
+    "requisitos-de-software/Aula 01 - Abordagens de Desenvolvimento.md",
+    "bancos-de-dados/Aula 01 - Modelagem Conceitual.md",
+    "fundamentos-de-arquitetura-de-computadores/Aula 01 e 02 - Introdução.md",
+    "requisitos-de-software/anotacoes-tempo-real-aula-02.md",
+    "requisitos-de-software/_Excalidraw_Requisitos_de_Software.md",
+    "requisitos-de-software/Aula 02 - Ciclos de Vida.md",
     "java/review.md",
+    "java/ja.md",
+    "fundamentos-de-arquitetura-de-computadores/Digital Design and Computer Architecture_ RISC-V Edition(Z-Lib.io).pdf",
+    "fundamentos-de-arquitetura-de-computadores/_images",
+    "bancos-de-dados/_images/conceptual_modeling.png",
+    "bancos-de-dados/_images",
+    "requisitos-de-software/_images/triangulos_dp_agil.png",
+    "requisitos-de-software/_images/abordagens_agil.png",
+    "requisitos-de-software/_images/cv_preditivo.png",
+    "requisitos-de-software/_images",
+    "Untitled",
+    "requisitos-de-software/_images/cv_iterativo.png",
+    "requisitos-de-software/_images/cv_incremental.png",
+    "requisitos-de-software/_images/abordagens_dp.png",
+    "requisitos-de-software/Aula 01 - Requisitos de Software.md",
+    "requisitos-de-software/sequencia_diagrama.png",
+    "Pasted image 20250327153819.png",
+    "Pasted image 20250327110756.png",
+    "requisitos-de-software/Untitled 1.md",
+    "Untitled.md",
+    "fundamentos-de-arquitetura-de-computadores",
     "java",
     "requisitos-de-software",
     "bancos-de-dados"

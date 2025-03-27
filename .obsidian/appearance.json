@@ -1,7 +1,7 @@
 {
   "cssTheme": "Rose Pine",
-  "interfaceFontFamily": "Cascadia Code",
-  "textFontFamily": "Cascadia Code",
-  "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 14
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 16
 }
